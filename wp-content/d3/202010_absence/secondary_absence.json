@@ -1,0 +1,742 @@
+[
+  {
+    "la_code": "E06000015",
+    "la_name": "Derby",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E06000016",
+    "la_name": "Leicester",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E06000017",
+    "la_name": "Rutland",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000018",
+    "la_name": "Nottingham",
+    "attendance_pct": 73
+  },
+  {
+    "la_code": "E10000007",
+    "la_name": "Derbyshire",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E10000018",
+    "la_name": "Leicestershire",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E10000019",
+    "la_name": "Lincolnshire",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000021",
+    "la_name": "Northamptonshire",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000024",
+    "la_name": "Nottinghamshire",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E06000031",
+    "la_name": "Peterborough",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E06000032",
+    "la_name": "Luton",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E06000033",
+    "la_name": "Southend-on-Sea",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E06000034",
+    "la_name": "Thurrock",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E06000055",
+    "la_name": "Bedford",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000056",
+    "la_name": "Central Bedfordshire",
+    "attendance_pct": 93
+  },
+  {
+    "la_code": "E10000003",
+    "la_name": "Cambridgeshire",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E10000012",
+    "la_name": "Essex",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E10000015",
+    "la_name": "Hertfordshire",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E10000020",
+    "la_name": "Norfolk",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000029",
+    "la_name": "Suffolk",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E09000002",
+    "la_name": "Barking and Dagenham",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000003",
+    "la_name": "Barnet",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E09000004",
+    "la_name": "Bexley",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E09000005",
+    "la_name": "Brent",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E09000006",
+    "la_name": "Bromley",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000007",
+    "la_name": "Camden",
+    "attendance_pct": 77
+  },
+  {
+    "la_code": "E09000008",
+    "la_name": "Croydon",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E09000009",
+    "la_name": "Ealing",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E09000010",
+    "la_name": "Enfield",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E09000011",
+    "la_name": "Greenwich",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E09000012",
+    "la_name": "Hackney",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000013",
+    "la_name": "Hammersmith and Fulham",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E09000014",
+    "la_name": "Haringey",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E09000015",
+    "la_name": "Harrow",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E09000016",
+    "la_name": "Havering",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000017",
+    "la_name": "Hillingdon",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E09000018",
+    "la_name": "Hounslow",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000019",
+    "la_name": "Islington",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E09000020",
+    "la_name": "Kensington and Chelsea",
+    "attendance_pct": 94
+  },
+  {
+    "la_code": "E09000021",
+    "la_name": "Kingston upon Thames",
+    "attendance_pct": 68
+  },
+  {
+    "la_code": "E09000022",
+    "la_name": "Lambeth",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E09000023",
+    "la_name": "Lewisham",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E09000024",
+    "la_name": "Merton",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E09000025",
+    "la_name": "Newham",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E09000026",
+    "la_name": "Redbridge",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E09000027",
+    "la_name": "Richmond upon Thames",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E09000028",
+    "la_name": "Southwark",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E09000029",
+    "la_name": "Sutton",
+    "attendance_pct": 93
+  },
+  {
+    "la_code": "E09000030",
+    "la_name": "Tower Hamlets",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E09000031",
+    "la_name": "Waltham Forest",
+    "attendance_pct": 79
+  },
+  {
+    "la_code": "E09000032",
+    "la_name": "Wandsworth",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E09000033",
+    "la_name": "Westminster",
+    "attendance_pct": 83
+  },
+  {
+    "la_code": "E06000001",
+    "la_name": "Hartlepool",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E06000002",
+    "la_name": "Middlesbrough",
+    "attendance_pct": 75
+  },
+  {
+    "la_code": "E06000003",
+    "la_name": "Redcar and Cleveland",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E06000004",
+    "la_name": "Stockton-on-Tees",
+    "attendance_pct": 77
+  },
+  {
+    "la_code": "E06000005",
+    "la_name": "Darlington",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000047",
+    "la_name": "Durham",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E06000057",
+    "la_name": "Northumberland",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E08000021",
+    "la_name": "Newcastle upon Tyne",
+    "attendance_pct": 79
+  },
+  {
+    "la_code": "E08000022",
+    "la_name": "North Tyneside",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E08000023",
+    "la_name": "South Tyneside",
+    "attendance_pct": 81
+  },
+  {
+    "la_code": "E08000024",
+    "la_name": "Sunderland",
+    "attendance_pct": 78
+  },
+  {
+    "la_code": "E08000037",
+    "la_name": "Gateshead",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E06000006",
+    "la_name": "Halton",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E06000007",
+    "la_name": "Warrington",
+    "attendance_pct": 77
+  },
+  {
+    "la_code": "E06000008",
+    "la_name": "Blackburn with Darwen",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E06000009",
+    "la_name": "Blackpool",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E06000049",
+    "la_name": "Cheshire East",
+    "attendance_pct": 82
+  },
+  {
+    "la_code": "E06000050",
+    "la_name": "Cheshire West and Chester",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E08000001",
+    "la_name": "Bolton",
+    "attendance_pct": 76
+  },
+  {
+    "la_code": "E08000002",
+    "la_name": "Bury",
+    "attendance_pct": 74
+  },
+  {
+    "la_code": "E08000003",
+    "la_name": "Manchester",
+    "attendance_pct": 78
+  },
+  {
+    "la_code": "E08000004",
+    "la_name": "Oldham",
+    "attendance_pct": 73
+  },
+  {
+    "la_code": "E08000005",
+    "la_name": "Rochdale",
+    "attendance_pct": 70
+  },
+  {
+    "la_code": "E08000006",
+    "la_name": "Salford",
+    "attendance_pct": 81
+  },
+  {
+    "la_code": "E08000007",
+    "la_name": "Stockport",
+    "attendance_pct": 82
+  },
+  {
+    "la_code": "E08000008",
+    "la_name": "Tameside",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E08000009",
+    "la_name": "Trafford",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E08000010",
+    "la_name": "Wigan",
+    "attendance_pct": 78
+  },
+  {
+    "la_code": "E08000011",
+    "la_name": "Knowsley",
+    "attendance_pct": 61
+  },
+  {
+    "la_code": "E08000012",
+    "la_name": "Liverpool",
+    "attendance_pct": 67
+  },
+  {
+    "la_code": "E08000013",
+    "la_name": "St Helens",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E08000014",
+    "la_name": "Sefton",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E08000015",
+    "la_name": "Wirral",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E10000006",
+    "la_name": "Cumbria",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000017",
+    "la_name": "Lancashire",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E06000035",
+    "la_name": "Medway",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E06000036",
+    "la_name": "Bracknell Forest",
+    "attendance_pct": 72
+  },
+  {
+    "la_code": "E06000037",
+    "la_name": "West Berkshire",
+    "attendance_pct": 94
+  },
+  {
+    "la_code": "E06000038",
+    "la_name": "Reading",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000039",
+    "la_name": "Slough",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000040",
+    "la_name": "Windsor and Maidenhead",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E06000041",
+    "la_name": "Wokingham",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000042",
+    "la_name": "Milton Keynes",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E06000043",
+    "la_name": "Brighton and Hove",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E06000044",
+    "la_name": "Portsmouth",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E06000045",
+    "la_name": "Southampton",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000046",
+    "la_name": "Isle of Wight",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E10000002",
+    "la_name": "Buckinghamshire",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E10000011",
+    "la_name": "East Sussex",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000014",
+    "la_name": "Hampshire",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E10000016",
+    "la_name": "Kent",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E10000025",
+    "la_name": "Oxfordshire",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E10000030",
+    "la_name": "Surrey",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E10000032",
+    "la_name": "West Sussex",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000022",
+    "la_name": "Bath and North East Somerset",
+    "attendance_pct": 94
+  },
+  {
+    "la_code": "E06000023",
+    "la_name": "Bristol, City of",
+    "attendance_pct": 81
+  },
+  {
+    "la_code": "E06000024",
+    "la_name": "North Somerset",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000025",
+    "la_name": "South Gloucestershire",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000026",
+    "la_name": "Plymouth",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E06000027",
+    "la_name": "Torbay",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000030",
+    "la_name": "Swindon",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E06000052",
+    "la_name": "Cornwall",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E06000054",
+    "la_name": "Wiltshire",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E06000058",
+    "la_name": "Bournemouth, Christchurch and Poole",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E06000059",
+    "la_name": "Dorset",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E10000008",
+    "la_name": "Devon",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E10000013",
+    "la_name": "Gloucestershire",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E10000027",
+    "la_name": "Somerset",
+    "attendance_pct": 91
+  },
+  {
+    "la_code": "E06000019",
+    "la_name": "Herefordshire",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000020",
+    "la_name": "Telford and Wrekin",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E06000021",
+    "la_name": "Stoke-on-Trent",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E06000051",
+    "la_name": "Shropshire",
+    "attendance_pct": 92
+  },
+  {
+    "la_code": "E08000025",
+    "la_name": "Birmingham",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E08000026",
+    "la_name": "Coventry",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E08000027",
+    "la_name": "Dudley",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E08000028",
+    "la_name": "Sandwell",
+    "attendance_pct": 84
+  },
+  {
+    "la_code": "E08000029",
+    "la_name": "Solihull",
+    "attendance_pct": 79
+  },
+  {
+    "la_code": "E08000030",
+    "la_name": "Walsall",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E08000031",
+    "la_name": "Wolverhampton",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E10000028",
+    "la_name": "Staffordshire",
+    "attendance_pct": 86
+  },
+  {
+    "la_code": "E10000031",
+    "la_name": "Warwickshire",
+    "attendance_pct": 87
+  },
+  {
+    "la_code": "E06000010",
+    "la_name": "Kingston Upon Hull, City of",
+    "attendance_pct": 78
+  },
+  {
+    "la_code": "E06000011",
+    "la_name": "East Riding of Yorkshire",
+    "attendance_pct": 82
+  },
+  {
+    "la_code": "E06000012",
+    "la_name": "North East Lincolnshire",
+    "attendance_pct": 75
+  },
+  {
+    "la_code": "E06000013",
+    "la_name": "North Lincolnshire",
+    "attendance_pct": 90
+  },
+  {
+    "la_code": "E06000014",
+    "la_name": "York",
+    "attendance_pct": 89
+  },
+  {
+    "la_code": "E08000016",
+    "la_name": "Barnsley",
+    "attendance_pct": 88
+  },
+  {
+    "la_code": "E08000017",
+    "la_name": "Doncaster",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E08000018",
+    "la_name": "Rotherham",
+    "attendance_pct": 82
+  },
+  {
+    "la_code": "E08000019",
+    "la_name": "Sheffield",
+    "attendance_pct": 78
+  },
+  {
+    "la_code": "E08000032",
+    "la_name": "Bradford",
+    "attendance_pct": 80
+  },
+  {
+    "la_code": "E08000033",
+    "la_name": "Calderdale",
+    "attendance_pct": 64
+  },
+  {
+    "la_code": "E08000034",
+    "la_name": "Kirklees",
+    "attendance_pct": 81
+  },
+  {
+    "la_code": "E08000035",
+    "la_name": "Leeds",
+    "attendance_pct": 81
+  },
+  {
+    "la_code": "E08000036",
+    "la_name": "Wakefield",
+    "attendance_pct": 85
+  },
+  {
+    "la_code": "E10000023",
+    "la_name": "North Yorkshire",
+    "attendance_pct": 89
+  }
+]

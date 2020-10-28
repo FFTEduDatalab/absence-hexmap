@@ -1,0 +1,41 @@
+.d3-map {
+	height: 780px;
+	width: 700px;
+	margin-bottom: 20px;
+}
+
+.d3-map svg {
+	background-color: white;
+	font-size: 14px;
+	color: rgba(0,0,0,0.87);
+    font-family: 'Avenir Next W01';
+}
+
+.d3-map svg .title.header {
+	font-size: 1.5em;
+}
+
+.d3-map svg .title {
+	font-weight: bolder;
+	font-size: 1.2em;
+}
+
+/* Results panel */
+.d3-map svg .results-panel-text {
+	font-weight: bolder;
+	font-size: 1.2em;
+}
+
+/* Notes */
+.d3-map svg .notes.header {
+	text-decoration: underline;
+}
+
+.d3-map svg .notes {
+	font-size: 10px;
+}
+
+.d3-map svg .notes.url {
+	fill: rgb(230,0,126);
+	text-decoration: underline;
+}
