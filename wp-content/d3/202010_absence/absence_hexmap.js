@@ -1,6 +1,6 @@
 d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, absenceJSON) {
 
-	d3.json("/wp-content/d3/202010_absence/uk-upper-tier-local-authorities.hexJSON", function(error, hexJSON) {
+	d3.json("/wp-content/d3/202010_absence/uk-upper-tier-local-authorities.hexjson", function(error, hexJSON) {
 
 		// Merge data
 		for (hex in hexJSON.hexes) {
