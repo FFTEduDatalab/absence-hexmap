@@ -14,7 +14,7 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 		}
 
 		// Set the size and margins of the svg
-		var margin = {top: 50, right: 10, bottom: 50, left: 10},
+		var margin = {top: 60, right: 10, bottom: 40, left: 10},
 			width = 700 - margin.left - margin.right,
 			height = 780 - margin.top - margin.bottom;
 
@@ -81,14 +81,14 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 			.attr("class", "title header")
 			.attr("text-anchor", "middle")
 			.attr("x", width / 2)
-			.attr("y", -30)
+			.attr("y", -35)
 			.text("Secondary school attendance rate by local authority");
 
 		svg.append("text")
 			.attr("class", "title")
 			.attr("text-anchor", "middle")
 			.attr("x", width / 2)
-			.attr("y", -10)
+			.attr("y", -15)
 			.text("Pupils in state-funded secondary schools in England, 15 October 2020");
 
 		// Add a legend
@@ -142,7 +142,7 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 			.attr("class", "results-panel")
 			.attr("width", 700)
 			.attr("height", 40)
-			.attr("transform", "translate(" + -10 + "," + 690 + ")")
+			.attr("transform", "translate(" + -10 + "," + 680 + ")")
 			.style("fill", "#f3f3f3");
 
 		svg.append("text")
