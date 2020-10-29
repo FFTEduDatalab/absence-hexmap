@@ -149,7 +149,7 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 			.attr("class", "results-panel-text")
 			.attr("text-anchor", "middle")
 			.attr("x", width / 2)
-			.attr("y", 715);
+			.attr("y", 705);
 
 	});
 
