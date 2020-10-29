@@ -79,14 +79,14 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 			.attr("text-anchor", "middle")
 			.attr("x", width / 2)
 			.attr("y", -30)
-			.text("Attendance at secondary schools in England");
+			.text("Secondary school attendance rate by local authority");
 
 		svg.append("text")
 			.attr("class", "title")
 			.attr("text-anchor", "middle")
 			.attr("x", width / 2)
 			.attr("y", -10)
-			.text("Pupils in state-funded secondary schools on 15 October");
+			.text("Pupils in state-funded secondary schools in England, 15 October 2020");
 
 		// Add a legend
 		svg.append("g")
