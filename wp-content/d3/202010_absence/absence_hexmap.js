@@ -9,6 +9,7 @@ d3.json("/wp-content/d3/202010_absence/secondary_absence.json", function(error, 
 		    });
 		    hexJSON.hexes[hex].attendance_pct = (result[0] !== undefined) ? result[0].attendance_pct / 100.0 : null;		// done to ease formatting of the legend
 			if (hexJSON.hexes[hex].r % 2 === 0) {
+				console.log(hexJSON.hexes[hex].r)
 				hexJSON.hexes[hex].q = hexJSON.hexes[hex].q - 1		// hotfix to make hexes line up as intended
 			}
 		}
