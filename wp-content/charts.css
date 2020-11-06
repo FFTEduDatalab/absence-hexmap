@@ -1,0 +1,5 @@
+.scroll-wrapper {
+	clear: both;
+	overflow-x: scroll;
+	background: #f3f3f3;
+}
