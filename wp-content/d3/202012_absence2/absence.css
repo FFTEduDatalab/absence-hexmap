@@ -23,6 +23,7 @@
 .d3-map.absence svg .results-panel-text {
 	font-weight: bolder;
 	font-size: 1.2em;
+	fill: black
 }
 
 /* Notes */

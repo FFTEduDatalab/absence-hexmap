@@ -1,5 +1,24 @@
+/* Scroll wrapper */
 .scroll-wrapper {
 	clear: both;
 	overflow-x: scroll;
 	background: #f3f3f3;
+	margin-bottom: 20px;
+}
+
+/* Dropdown selectors */
+.dropdown-selector {
+	border-color: #ea51a5;
+	font-size: 15px;
+	color: #535353;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {		/* when wide enough */
+	.dropdown-selector.right {
+		float: right;
+		margin-left: 10px;
+		margin-right: 0px;
+	}
 }

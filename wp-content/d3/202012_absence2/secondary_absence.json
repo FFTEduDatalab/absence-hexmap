@@ -1,0 +1,1352 @@
+[
+  {
+    "la_code": "E09000002",
+    "la_name": "Barking and Dagenham",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 77,
+    "attendance_pct_20201210": 74,
+    "attendance_change_pp": -15
+  },
+  {
+    "la_code": "E09000003",
+    "la_name": "Barnet",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 89,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E08000016",
+    "la_name": "Barnsley",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E06000022",
+    "la_name": "Bath and North East Somerset",
+    "responcerate_pct_20201015": 64,
+    "attendance_pct_20201015": 94,
+    "responcerate_pct_20201210": 93,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -17
+  },
+  {
+    "la_code": "E06000055",
+    "la_name": "Bedford",
+    "responcerate_pct_20201015": 67,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 67,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E09000004",
+    "la_name": "Bexley",
+    "responcerate_pct_20201015": 88,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 94,
+    "attendance_pct_20201210": 64,
+    "attendance_change_pp": -23
+  },
+  {
+    "la_code": "E08000025",
+    "la_name": "Birmingham",
+    "responcerate_pct_20201015": 85,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 86,
+    "attendance_pct_20201210": 76,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E06000008",
+    "la_name": "Blackburn with Darwen",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 92,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000009",
+    "la_name": "Blackpool",
+    "responcerate_pct_20201015": 88,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": 5
+  },
+  {
+    "la_code": "E08000001",
+    "la_name": "Bolton",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 76,
+    "responcerate_pct_20201210": 70,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": 6
+  },
+  {
+    "la_code": "E06000058",
+    "la_name": "Bournemouth, Christchurch and Poole",
+    "responcerate_pct_20201015": 92,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 96,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E06000036",
+    "la_name": "Bracknell Forest",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 72,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 63,
+    "attendance_change_pp": -9
+  },
+  {
+    "la_code": "E08000032",
+    "la_name": "Bradford",
+    "responcerate_pct_20201015": 65,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 62,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E09000005",
+    "la_name": "Brent",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": -12
+  },
+  {
+    "la_code": "E06000043",
+    "la_name": "Brighton and Hove",
+    "responcerate_pct_20201015": 70,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 70,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E06000023",
+    "la_name": "Bristol, City of",
+    "responcerate_pct_20201015": 64,
+    "attendance_pct_20201015": 81,
+    "responcerate_pct_20201210": 77,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E09000006",
+    "la_name": "Bromley",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 68,
+    "attendance_change_pp": -21
+  },
+  {
+    "la_code": "E10000002",
+    "la_name": "Buckinghamshire",
+    "responcerate_pct_20201015": 67,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": -14
+  },
+  {
+    "la_code": "E08000002",
+    "la_name": "Bury",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 74,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 76,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E08000033",
+    "la_name": "Calderdale",
+    "responcerate_pct_20201015": 79,
+    "attendance_pct_20201015": 64,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": 14
+  },
+  {
+    "la_code": "E10000003",
+    "la_name": "Cambridgeshire",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 94,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E09000007",
+    "la_name": "Camden",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 77,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E06000056",
+    "la_name": "Central Bedfordshire",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 93,
+    "responcerate_pct_20201210": 89,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -13
+  },
+  {
+    "la_code": "E06000049",
+    "la_name": "Cheshire East",
+    "responcerate_pct_20201015": 78,
+    "attendance_pct_20201015": 82,
+    "responcerate_pct_20201210": 87,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E06000050",
+    "la_name": "Cheshire West and Chester",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 76,
+    "attendance_pct_20201210": 90,
+    "attendance_change_pp": 0
+  },
+  {
+    "la_code": "E06000052",
+    "la_name": "Cornwall",
+    "responcerate_pct_20201015": 94,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 84,
+    "attendance_pct_20201210": 90,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E08000026",
+    "la_name": "Coventry",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 55,
+    "attendance_pct_20201210": 83,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000008",
+    "la_name": "Croydon",
+    "responcerate_pct_20201015": 76,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 76,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": -16
+  },
+  {
+    "la_code": "E10000006",
+    "la_name": "Cumbria",
+    "responcerate_pct_20201015": 82,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E06000005",
+    "la_name": "Darlington",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 88,
+    "attendance_pct_20201210": 73,
+    "attendance_change_pp": -19
+  },
+  {
+    "la_code": "E06000015",
+    "la_name": "Derby",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 74,
+    "attendance_change_pp": -12
+  },
+  {
+    "la_code": "E10000007",
+    "la_name": "Derbyshire",
+    "responcerate_pct_20201015": 84,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E10000008",
+    "la_name": "Devon",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 93,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -2
+  },
+  {
+    "la_code": "E08000017",
+    "la_name": "Doncaster",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 81,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000059",
+    "la_name": "Dorset",
+    "responcerate_pct_20201015": 93,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E08000027",
+    "la_name": "Dudley",
+    "responcerate_pct_20201015": 84,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 83,
+    "attendance_change_pp": -6
+  },
+  {
+    "la_code": "E06000047",
+    "la_name": "Durham",
+    "responcerate_pct_20201015": 63,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 66,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E09000009",
+    "la_name": "Ealing",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 81,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -2
+  },
+  {
+    "la_code": "E06000011",
+    "la_name": "East Riding of Yorkshire",
+    "responcerate_pct_20201015": 72,
+    "attendance_pct_20201015": 82,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": 0
+  },
+  {
+    "la_code": "E10000011",
+    "la_name": "East Sussex",
+    "responcerate_pct_20201015": 92,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -14
+  },
+  {
+    "la_code": "E09000010",
+    "la_name": "Enfield",
+    "responcerate_pct_20201015": 64,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 68,
+    "attendance_pct_20201210": 55,
+    "attendance_change_pp": -33
+  },
+  {
+    "la_code": "E10000012",
+    "la_name": "Essex",
+    "responcerate_pct_20201015": 80,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 71,
+    "attendance_change_pp": -16
+  },
+  {
+    "la_code": "E08000037",
+    "la_name": "Gateshead",
+    "responcerate_pct_20201015": 56,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E10000013",
+    "la_name": "Gloucestershire",
+    "responcerate_pct_20201015": 93,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E09000011",
+    "la_name": "Greenwich",
+    "responcerate_pct_20201015": 83,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 72,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -10
+  },
+  {
+    "la_code": "E09000012",
+    "la_name": "Hackney",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 56,
+    "attendance_pct_20201210": 65,
+    "attendance_change_pp": -24
+  },
+  {
+    "la_code": "E06000006",
+    "la_name": "Halton",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 63,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000013",
+    "la_name": "Hammersmith and Fulham",
+    "responcerate_pct_20201015": 85,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 62,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E10000014",
+    "la_name": "Hampshire",
+    "responcerate_pct_20201015": 82,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -2
+  },
+  {
+    "la_code": "E09000014",
+    "la_name": "Haringey",
+    "responcerate_pct_20201015": 64,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 64,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E09000015",
+    "la_name": "Harrow",
+    "responcerate_pct_20201015": 62,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 62,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000001",
+    "la_name": "Hartlepool",
+    "responcerate_pct_20201015": 60,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 40,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E09000016",
+    "la_name": "Havering",
+    "responcerate_pct_20201015": 83,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 58,
+    "attendance_change_pp": -31
+  },
+  {
+    "la_code": "E06000019",
+    "la_name": "Herefordshire",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 75,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E10000015",
+    "la_name": "Hertfordshire",
+    "responcerate_pct_20201015": 83,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 76,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -9
+  },
+  {
+    "la_code": "E09000017",
+    "la_name": "Hillingdon",
+    "responcerate_pct_20201015": 68,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 91,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E09000018",
+    "la_name": "Hounslow",
+    "responcerate_pct_20201015": 95,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E06000046",
+    "la_name": "Isle of Wight",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 86,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E06000053",
+    "la_name": "Isles of Scilly",
+    "responcerate_pct_20201015": null,
+    "attendance_pct_20201015": null,
+    "responcerate_pct_20201210": null,
+    "attendance_pct_20201210": null,
+    "attendance_change_pp": null
+  },
+  {
+    "la_code": "E09000019",
+    "la_name": "Islington",
+    "responcerate_pct_20201015": 45,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 45,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -12
+  },
+  {
+    "la_code": "E09000020",
+    "la_name": "Kensington and Chelsea",
+    "responcerate_pct_20201015": 50,
+    "attendance_pct_20201015": 94,
+    "responcerate_pct_20201210": 50,
+    "attendance_pct_20201210": 93,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E10000016",
+    "la_name": "Kent",
+    "responcerate_pct_20201015": 74,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 75,
+    "attendance_pct_20201210": 55,
+    "attendance_change_pp": -35
+  },
+  {
+    "la_code": "E06000010",
+    "la_name": "Kingston Upon Hull, City of",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 78,
+    "responcerate_pct_20201210": 85,
+    "attendance_pct_20201210": 74,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000021",
+    "la_name": "Kingston upon Thames",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 68,
+    "responcerate_pct_20201210": 73,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": 4
+  },
+  {
+    "la_code": "E08000034",
+    "la_name": "Kirklees",
+    "responcerate_pct_20201015": 67,
+    "attendance_pct_20201015": 81,
+    "responcerate_pct_20201210": 63,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E08000011",
+    "la_name": "Knowsley",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 61,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 83,
+    "attendance_change_pp": 22
+  },
+  {
+    "la_code": "E09000022",
+    "la_name": "Lambeth",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 60,
+    "attendance_pct_20201210": 69,
+    "attendance_change_pp": -18
+  },
+  {
+    "la_code": "E10000017",
+    "la_name": "Lancashire",
+    "responcerate_pct_20201015": 78,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -2
+  },
+  {
+    "la_code": "E08000035",
+    "la_name": "Leeds",
+    "responcerate_pct_20201015": 73,
+    "attendance_pct_20201015": 81,
+    "responcerate_pct_20201210": 70,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E06000016",
+    "la_name": "Leicester",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E10000018",
+    "la_name": "Leicestershire",
+    "responcerate_pct_20201015": 72,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000023",
+    "la_name": "Lewisham",
+    "responcerate_pct_20201015": 57,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 36,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -15
+  },
+  {
+    "la_code": "E10000019",
+    "la_name": "Lincolnshire",
+    "responcerate_pct_20201015": 78,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -16
+  },
+  {
+    "la_code": "E08000012",
+    "la_name": "Liverpool",
+    "responcerate_pct_20201015": 85,
+    "attendance_pct_20201015": 67,
+    "responcerate_pct_20201210": 94,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": 15
+  },
+  {
+    "la_code": "E06000032",
+    "la_name": "Luton",
+    "responcerate_pct_20201015": 92,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 92,
+    "attendance_pct_20201210": 67,
+    "attendance_change_pp": -20
+  },
+  {
+    "la_code": "E08000003",
+    "la_name": "Manchester",
+    "responcerate_pct_20201015": 94,
+    "attendance_pct_20201015": 78,
+    "responcerate_pct_20201210": 75,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": 7
+  },
+  {
+    "la_code": "E06000035",
+    "la_name": "Medway",
+    "responcerate_pct_20201015": 83,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 53,
+    "attendance_change_pp": -37
+  },
+  {
+    "la_code": "E09000024",
+    "la_name": "Merton",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -15
+  },
+  {
+    "la_code": "E06000002",
+    "la_name": "Middlesbrough",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 75,
+    "responcerate_pct_20201210": 50,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": 7
+  },
+  {
+    "la_code": "E06000042",
+    "la_name": "Milton Keynes",
+    "responcerate_pct_20201015": 93,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": -14
+  },
+  {
+    "la_code": "E08000021",
+    "la_name": "Newcastle upon Tyne",
+    "responcerate_pct_20201015": 87,
+    "attendance_pct_20201015": 79,
+    "responcerate_pct_20201210": 87,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000025",
+    "la_name": "Newham",
+    "responcerate_pct_20201015": 74,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 74,
+    "attendance_change_pp": -15
+  },
+  {
+    "la_code": "E10000020",
+    "la_name": "Norfolk",
+    "responcerate_pct_20201015": 93,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 76,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000012",
+    "la_name": "North East Lincolnshire",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 75,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": 10
+  },
+  {
+    "la_code": "E06000013",
+    "la_name": "North Lincolnshire",
+    "responcerate_pct_20201015": 71,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 57,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -11
+  },
+  {
+    "la_code": "E06000024",
+    "la_name": "North Somerset",
+    "responcerate_pct_20201015": 91,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -12
+  },
+  {
+    "la_code": "E08000022",
+    "la_name": "North Tyneside",
+    "responcerate_pct_20201015": 63,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 90,
+    "attendance_change_pp": 5
+  },
+  {
+    "la_code": "E10000023",
+    "la_name": "North Yorkshire",
+    "responcerate_pct_20201015": 88,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 84,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E10000021",
+    "la_name": "Northamptonshire",
+    "responcerate_pct_20201015": 79,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E06000057",
+    "la_name": "Northumberland",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 74,
+    "attendance_pct_20201210": 89,
+    "attendance_change_pp": 0
+  },
+  {
+    "la_code": "E06000018",
+    "la_name": "Nottingham",
+    "responcerate_pct_20201015": 63,
+    "attendance_pct_20201015": 73,
+    "responcerate_pct_20201210": 53,
+    "attendance_pct_20201210": 73,
+    "attendance_change_pp": 0
+  },
+  {
+    "la_code": "E10000024",
+    "la_name": "Nottinghamshire",
+    "responcerate_pct_20201015": 73,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E08000004",
+    "la_name": "Oldham",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 73,
+    "responcerate_pct_20201210": 93,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": 6
+  },
+  {
+    "la_code": "E10000025",
+    "la_name": "Oxfordshire",
+    "responcerate_pct_20201015": 79,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 88,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -6
+  },
+  {
+    "la_code": "E06000031",
+    "la_name": "Peterborough",
+    "responcerate_pct_20201015": 93,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 86,
+    "attendance_pct_20201210": 69,
+    "attendance_change_pp": -22
+  },
+  {
+    "la_code": "E06000026",
+    "la_name": "Plymouth",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 89,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E06000044",
+    "la_name": "Portsmouth",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": -19
+  },
+  {
+    "la_code": "E06000038",
+    "la_name": "Reading",
+    "responcerate_pct_20201015": 70,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 70,
+    "attendance_change_pp": -22
+  },
+  {
+    "la_code": "E09000026",
+    "la_name": "Redbridge",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 84,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -10
+  },
+  {
+    "la_code": "E06000003",
+    "la_name": "Redcar and Cleveland",
+    "responcerate_pct_20201015": 73,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 91,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000027",
+    "la_name": "Richmond upon Thames",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 91,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -6
+  },
+  {
+    "la_code": "E08000005",
+    "la_name": "Rochdale",
+    "responcerate_pct_20201015": 85,
+    "attendance_pct_20201015": 70,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 72,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E08000018",
+    "la_name": "Rotherham",
+    "responcerate_pct_20201015": 76,
+    "attendance_pct_20201015": 82,
+    "responcerate_pct_20201210": 71,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E06000017",
+    "la_name": "Rutland",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 92,
+    "attendance_change_pp": 0
+  },
+  {
+    "la_code": "E08000006",
+    "la_name": "Salford",
+    "responcerate_pct_20201015": 87,
+    "attendance_pct_20201015": 81,
+    "responcerate_pct_20201210": 87,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E08000028",
+    "la_name": "Sandwell",
+    "responcerate_pct_20201015": 70,
+    "attendance_pct_20201015": 84,
+    "responcerate_pct_20201210": 75,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E08000014",
+    "la_name": "Sefton",
+    "responcerate_pct_20201015": 72,
+    "attendance_pct_20201015": 80,
+    "responcerate_pct_20201210": 78,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 8
+  },
+  {
+    "la_code": "E08000019",
+    "la_name": "Sheffield",
+    "responcerate_pct_20201015": 88,
+    "attendance_pct_20201015": 78,
+    "responcerate_pct_20201210": 91,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E06000051",
+    "la_name": "Shropshire",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 95,
+    "attendance_pct_20201210": 89,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E06000039",
+    "la_name": "Slough",
+    "responcerate_pct_20201015": 87,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 67,
+    "attendance_pct_20201210": 80,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E08000029",
+    "la_name": "Solihull",
+    "responcerate_pct_20201015": 94,
+    "attendance_pct_20201015": 79,
+    "responcerate_pct_20201210": 81,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E10000027",
+    "la_name": "Somerset",
+    "responcerate_pct_20201015": 87,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 74,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -9
+  },
+  {
+    "la_code": "E06000025",
+    "la_name": "South Gloucestershire",
+    "responcerate_pct_20201015": 82,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 88,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -11
+  },
+  {
+    "la_code": "E08000023",
+    "la_name": "South Tyneside",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 81,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E06000045",
+    "la_name": "Southampton",
+    "responcerate_pct_20201015": 31,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 54,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": -13
+  },
+  {
+    "la_code": "E06000033",
+    "la_name": "Southend-on-Sea",
+    "responcerate_pct_20201015": 83,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E09000028",
+    "la_name": "Southwark",
+    "responcerate_pct_20201015": 60,
+    "attendance_pct_20201015": 90,
+    "responcerate_pct_20201210": 80,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": -12
+  },
+  {
+    "la_code": "E08000013",
+    "la_name": "St Helens",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 3
+  },
+  {
+    "la_code": "E10000028",
+    "la_name": "Staffordshire",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E08000007",
+    "la_name": "Stockport",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 82,
+    "responcerate_pct_20201210": 86,
+    "attendance_pct_20201210": 89,
+    "attendance_change_pp": 7
+  },
+  {
+    "la_code": "E06000004",
+    "la_name": "Stockton-on-Tees",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 77,
+    "responcerate_pct_20201210": 62,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": 4
+  },
+  {
+    "la_code": "E06000021",
+    "la_name": "Stoke-on-Trent",
+    "responcerate_pct_20201015": 87,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 73,
+    "attendance_pct_20201210": 71,
+    "attendance_change_pp": -14
+  },
+  {
+    "la_code": "E10000029",
+    "la_name": "Suffolk",
+    "responcerate_pct_20201015": 77,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 90,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E08000024",
+    "la_name": "Sunderland",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 78,
+    "responcerate_pct_20201210": 83,
+    "attendance_pct_20201210": 71,
+    "attendance_change_pp": -7
+  },
+  {
+    "la_code": "E10000030",
+    "la_name": "Surrey",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 79,
+    "attendance_pct_20201210": 78,
+    "attendance_change_pp": -10
+  },
+  {
+    "la_code": "E09000029",
+    "la_name": "Sutton",
+    "responcerate_pct_20201015": 80,
+    "attendance_pct_20201015": 93,
+    "responcerate_pct_20201210": 60,
+    "attendance_pct_20201210": 75,
+    "attendance_change_pp": -18
+  },
+  {
+    "la_code": "E06000030",
+    "la_name": "Swindon",
+    "responcerate_pct_20201015": 71,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 64,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E08000008",
+    "la_name": "Tameside",
+    "responcerate_pct_20201015": 76,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 82,
+    "attendance_pct_20201210": 81,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000020",
+    "la_name": "Telford and Wrekin",
+    "responcerate_pct_20201015": 92,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 92,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -4
+  },
+  {
+    "la_code": "E06000034",
+    "la_name": "Thurrock",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 59,
+    "attendance_change_pp": -27
+  },
+  {
+    "la_code": "E06000027",
+    "la_name": "Torbay",
+    "responcerate_pct_20201015": 88,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 86,
+    "attendance_change_pp": -2
+  },
+  {
+    "la_code": "E09000030",
+    "la_name": "Tower Hamlets",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 84,
+    "attendance_pct_20201210": 68,
+    "attendance_change_pp": -18
+  },
+  {
+    "la_code": "E08000009",
+    "la_name": "Trafford",
+    "responcerate_pct_20201015": 79,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 74,
+    "attendance_pct_20201210": 89,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E08000036",
+    "la_name": "Wakefield",
+    "responcerate_pct_20201015": 85,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 95,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E08000030",
+    "la_name": "Walsall",
+    "responcerate_pct_20201015": 68,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 84,
+    "attendance_pct_20201210": 77,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E09000031",
+    "la_name": "Waltham Forest",
+    "responcerate_pct_20201015": 61,
+    "attendance_pct_20201015": 79,
+    "responcerate_pct_20201210": 50,
+    "attendance_pct_20201210": 71,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E09000032",
+    "la_name": "Wandsworth",
+    "responcerate_pct_20201015": 91,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 64,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -8
+  },
+  {
+    "la_code": "E06000007",
+    "la_name": "Warrington",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 77,
+    "responcerate_pct_20201210": 71,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 11
+  },
+  {
+    "la_code": "E10000031",
+    "la_name": "Warwickshire",
+    "responcerate_pct_20201015": 65,
+    "attendance_pct_20201015": 87,
+    "responcerate_pct_20201210": 76,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -5
+  },
+  {
+    "la_code": "E06000037",
+    "la_name": "West Berkshire",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 94,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 73,
+    "attendance_change_pp": -21
+  },
+  {
+    "la_code": "E10000032",
+    "la_name": "West Sussex",
+    "responcerate_pct_20201015": 75,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 73,
+    "attendance_pct_20201210": 89,
+    "attendance_change_pp": -3
+  },
+  {
+    "la_code": "E09000033",
+    "la_name": "Westminster",
+    "responcerate_pct_20201015": 54,
+    "attendance_pct_20201015": 83,
+    "responcerate_pct_20201210": 69,
+    "attendance_pct_20201210": 82,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E08000010",
+    "la_name": "Wigan",
+    "responcerate_pct_20201015": 89,
+    "attendance_pct_20201015": 78,
+    "responcerate_pct_20201210": 68,
+    "attendance_pct_20201210": 79,
+    "attendance_change_pp": 1
+  },
+  {
+    "la_code": "E06000054",
+    "la_name": "Wiltshire",
+    "responcerate_pct_20201015": 70,
+    "attendance_pct_20201015": 91,
+    "responcerate_pct_20201210": 53,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -7
+  },
+  {
+    "la_code": "E06000040",
+    "la_name": "Windsor and Maidenhead",
+    "responcerate_pct_20201015": 86,
+    "attendance_pct_20201015": 85,
+    "responcerate_pct_20201210": 71,
+    "attendance_pct_20201210": 84,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E08000015",
+    "la_name": "Wirral",
+    "responcerate_pct_20201015": 71,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 52,
+    "attendance_pct_20201210": 88,
+    "attendance_change_pp": 2
+  },
+  {
+    "la_code": "E06000041",
+    "la_name": "Wokingham",
+    "responcerate_pct_20201015": 90,
+    "attendance_pct_20201015": 92,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 85,
+    "attendance_change_pp": -7
+  },
+  {
+    "la_code": "E08000031",
+    "la_name": "Wolverhampton",
+    "responcerate_pct_20201015": 95,
+    "attendance_pct_20201015": 86,
+    "responcerate_pct_20201210": 90,
+    "attendance_pct_20201210": 70,
+    "attendance_change_pp": -16
+  },
+  {
+    "la_code": "E10000034",
+    "la_name": "Worcestershire",
+    "responcerate_pct_20201015": 91,
+    "attendance_pct_20201015": 88,
+    "responcerate_pct_20201210": 87,
+    "attendance_pct_20201210": 87,
+    "attendance_change_pp": -1
+  },
+  {
+    "la_code": "E06000014",
+    "la_name": "York",
+    "responcerate_pct_20201015": 100,
+    "attendance_pct_20201015": 89,
+    "responcerate_pct_20201210": 100,
+    "attendance_pct_20201210": 91,
+    "attendance_change_pp": 2
+  }
+]
