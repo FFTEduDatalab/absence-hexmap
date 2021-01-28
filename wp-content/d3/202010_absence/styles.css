@@ -1,40 +1,40 @@
-.d3-map {
+.d3-map.absence {
 	height: 780px;
 	width: 700px;
 }
 
-.d3-map svg {
+.d3-map.absence svg {
 	background-color: white;
 	font-size: 14px;
 	color: rgba(0,0,0,0.87);
     font-family: 'Avenir Next W01';
 }
 
-.d3-map svg .title.header {
+.d3-map.absence svg .title.header {
 	font-size: 1.5em;
 }
 
-.d3-map svg .title {
+.d3-map.absence svg .title {
 	font-weight: bolder;
 	font-size: 1.2em;
 }
 
 /* Results panel */
-.d3-map svg .results-panel-text {
+.d3-map.absence svg .results-panel-text {
 	font-weight: bolder;
 	font-size: 1.2em;
 }
 
 /* Notes */
-.d3-map svg .notes.header {
+.d3-map.absence svg .notes.header {
 	text-decoration: underline;
 }
 
-.d3-map svg .notes {
+.d3-map.absence svg .notes {
 	font-size: 10px;
 }
 
-.d3-map svg .notes.url {
+.d3-map.absence svg .notes.url {
 	fill: rgb(230,0,126);
 	text-decoration: underline;
 }
